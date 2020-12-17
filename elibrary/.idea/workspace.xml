@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6b91f40-9f20-4fab-927b-eb93ac57c102" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kTcBssFhyzudnYfp6ALha2baiG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="elibrary" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="elibrary [file:/C:/Users/Sehic/IdeaProjects/elibrary/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="elibrary-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3211461880846" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3313986783" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="87871327" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../ebiblioteka" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b91f40-9f20-4fab-927b-eb93ac57c102" name="Default Changelist" comment="" />
+      <created>1605727889513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605727889513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="137" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605733897219">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="374" y="137" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.756@0.0.1280.756" timestamp="1605733897219" />
+    <state x="424" y="137" key="FileChooserDialogImpl" timestamp="1606165646553">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="424" y="137" key="FileChooserDialogImpl/0.0.1280.756@0.0.1280.756" timestamp="1606165646553" />
+    <state x="351" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1606165388746">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="351" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.756@0.0.1280.756" timestamp="1606165388746" />
+    <state x="303" y="77" width="672" height="678" key="search.everywhere.popup" timestamp="1605733930805">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="303" y="77" width="672" height="678" key="search.everywhere.popup/0.0.1280.756@0.0.1280.756" timestamp="1605733930805" />
+  </component>
+</project>
